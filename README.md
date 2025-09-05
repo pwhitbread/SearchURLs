@@ -1,5 +1,6 @@
 # Website Search URLs
 
+List of website's and their search URLs in the format for use in web browser custom search engines
 |Site|URL|
 |---|---|
 |ArchWiki|https://wiki.archlinux.org/title/Special:Search/%s|
