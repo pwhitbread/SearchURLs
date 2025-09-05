@@ -9,5 +9,6 @@ List of website's and their search URLs in the format for use in web browser cus
 |Flickr|https://www.flickr.com/search/?text=%s|
 |imdb.com|https://www.imdb.com/find/?q=%s|
 |Just Watch (UK)|https://www.justwatch.com/uk/search?q=%s|
+|Steam Store|https://store.steampowered.com/search/?term=%s|
 |Wikivoyage|https://en.wikivoyage.org/wiki/Special:Search?search=%s|
 
