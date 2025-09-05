@@ -1,5 +1,5 @@
 # Website Search URLs
 
-## ArchWiki
+#### ArchWiki
 - https://wiki.archlinux.org/title/Special:Search/%s
 
