@@ -8,6 +8,7 @@ List of website's and their search URLs in the format for use in web browser cus
 |BBC iplayer|https://www.bbc.co.uk/iplayer/search?q=%s|
 |Flickr|https://www.flickr.com/search/?text=%s|
 |imdb.com|https://www.imdb.com/find/?q=%s|
+|ITVX|https://www.itv.com/watch/search?q=%s|
 |Just Watch (UK)|https://www.justwatch.com/uk/search?q=%s|
 |Steam Store|https://store.steampowered.com/search/?term=%s|
 |Wikivoyage|https://en.wikivoyage.org/wiki/Special:Search?search=%s|
